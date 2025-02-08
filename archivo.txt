@@ -1,0 +1,2 @@
+
+Hola, este es un texto escrito que se borra cuando se vuelve a usar, usa *a* para agregar un nuevo dato sin borrar este.
